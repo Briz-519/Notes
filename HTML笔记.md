@@ -128,4 +128,4 @@ img 图片插入标签
 点击后进入无限警告循环窗口
 
 <a href="javascript:while(1){alert('Do you want to close me?')}">Please click me!:cry:</a>
-1234
+
